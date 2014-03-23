@@ -2,6 +2,7 @@
 layout: post
 title: About Apache Spark, jekyll, github pages and rubygems
 tags: apache spark, jekyll, github pages, rubygems
+date:   2014-03-22 20:00:00
 ---
 
 I tried out [Apache Spark][spark] for the first time today. It was a bit of a
