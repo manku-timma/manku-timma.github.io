@@ -13,3 +13,8 @@ My first attempt is below.
 Since there are close connections to virtualization solutions and cloud
 computing solutions, I have added those also into the map. It is possible there
 are mistakes in the map and I need to update it as I learn more.
+
+Also played around with [HDFS][hdfs] using this [tutorial][tutorial].
+
+[hdfs]: http://www.ibm.com/developerworks/library/wa-introhdfs/index.html
+[tutorial]: http://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-single-node-cluster/
