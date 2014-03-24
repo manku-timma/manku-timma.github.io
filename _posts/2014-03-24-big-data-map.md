@@ -11,4 +11,4 @@ virtualization solutions and cloud computing solutions, I have added those also
 into the map. It is possible there are mistakes in the map and I need to update
 it as I learn more.
 
-[mentalmap]: https://github.com/manku-timma/manku-timma.github.io/blob/master/images/bigdata.jpg
+[mentalmap]: https://raw.githubusercontent.com/manku-timma/manku-timma.github.io/master/images/bigdata.jpg
