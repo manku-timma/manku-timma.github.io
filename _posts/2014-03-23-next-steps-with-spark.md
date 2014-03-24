@@ -2,6 +2,7 @@
 layout: post
 title: Basic usage of Apache Spark
 tags: apache spark
+date:   2014-03-24 10:00:00
 ---
 
 Played around with [Apache Spark][spark] today. Ran the spark-shell and did
