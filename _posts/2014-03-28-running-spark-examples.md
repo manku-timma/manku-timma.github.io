@@ -2,7 +2,7 @@
 layout: post
 title: Running Apache Spark examples
 tags: apache spark
-date:   2014-03-28 20:00:00
+date:   2014-03-28 10:00:00
 ---
 
 Apache Spark has a good set of examples to play with. But I could not figure
