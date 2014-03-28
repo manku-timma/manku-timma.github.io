@@ -85,9 +85,8 @@ failures:
 ```
 
 The failing test details looked like this:
-```
-	
 
+```
     $ GLOG_v=2 ./bin/mesos-tests.sh --gtest_filter="LevelDBStateTest.FetchAndStoreAndFetch" --verbose
      
     ...
