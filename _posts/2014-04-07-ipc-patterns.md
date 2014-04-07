@@ -15,4 +15,9 @@ IPC patterns quick reference (from this [book][book]):
 - Server/Client
 - Database update/read
 
+The fundamental means of communication between processes:
+
+- Message passing
+- Shared memory
+
 [book]: http://www.cs.unm.edu/~crowley/osbook/begin.html
