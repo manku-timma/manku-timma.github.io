@@ -17,4 +17,18 @@ The important choices to be made by a driver writer are:
 Some of the functionality can be in a userland library and some in a userland
 config program. Not everything needs to be in the kernel driver.
 
+Main resources managed by the kernel:
+
+- CPU and processes and IPC
+- Memory
+- Devices
+- Networking
+- Filesystems
+
+Types of device drivers:
+
+- char
+- block
+- network
+
 [ldd3]: http://lwn.net/Kernel/LDD3/
