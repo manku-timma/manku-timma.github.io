@@ -7,7 +7,7 @@ date:   2015-12-12 08:00:00
 
 The setup is spark 1.5.1 running on yarn (hadoop-2.6.0).
 
-```
+```bash
 # Install anaconda python on all nodes of the cluster.
 # Below we are installing anaconda's python-2.7 64-bit package.
 wget https://3230d63b5fc54e62148e-c95ac804525aac4b6dba79b00b39d1d3.ssl.cf1.rackcdn.com/Anaconda2-2.4.1-Linux-x86_64.sh
