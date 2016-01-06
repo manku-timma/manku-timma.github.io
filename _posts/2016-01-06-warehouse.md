@@ -6,6 +6,7 @@ date:   2016-01-06 19:00:00
 ---
 
 I did a bit of basic reading about measures, dimensions and facts. The most pithy explanation I have gathered is:-
+
 - facts are tables
 - dimensions are tables
 - dimension columns are columns in the fact table and are foreign keys into dimension tables
